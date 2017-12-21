@@ -1,3 +1,5 @@
 app-config:
-  config-key: val-default
+  config-key1: val1-default
+  config-key2: val2-default
+  config-key3: val3-default
 

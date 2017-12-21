@@ -1,0 +1,3 @@
+app-api:
+  retry-count: 1
+  api-name: N/A
